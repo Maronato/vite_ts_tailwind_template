@@ -1,0 +1,17 @@
+{
+  "tailwindCSS.emmetCompletions": true,
+  "css.validate": false,
+  "stylelint.enable": true,
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "postcss.validate": false,
+  "vetur.validation.template": false,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.enable": true,
+  "prettier.configPath": "./.prettierrc",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
